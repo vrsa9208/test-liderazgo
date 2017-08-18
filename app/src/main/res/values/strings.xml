@@ -1,0 +1,257 @@
+<resources>
+    <string name="app_name">Test de liderazgo</string>
+
+    <string name="instructions">
+        Suponga que usted está involucrado en cada una de las siguientes doce situaciones. Cada
+        situación plantea cuatro acciones alternativas que usted podría iniciar. Lea cuidadosamente
+        cada ítem. Piense acerca de lo que usted haría en cada circunstancia. Luego, encierre en un
+        círculo la letra correspondiente a la elección de la acción que usted piensa que describe
+        en forma más cercana su comportamiento en la situación presentada. Encierre en un círculo
+        sólo una elección.
+    </string>
+
+    <string name="start_test">Iniciar</string>
+    <string name="title_activity_question">Preguntas</string>
+
+    <string name="btn_previous">Anterior</string>
+    <string name="btn_next">Siguiente</string>
+
+    <string name="question_1">
+        1. Sus colaboradores no están respondiendo en el último tiempo a su conversación amistosa y a
+        su obvia preocupación por si bienestar. Su desempeño está declinando rápidamente.
+    </string>
+
+    <string name="answer_1_a">
+        Enfatizar la aplicación de procedimientos uniformes y la necesidad del cumplimiento de las
+        tareas.
+    </string>
+
+    <string name="answer_1_b">
+        Estar disponible para la discusión pero no presionar para involucrarse.
+    </string>
+
+    <string name="answer_1_c">
+        Hablar con los colaboradores y luego establecer metas a alcanzar.
+    </string>
+
+    <string name="answer_1_d">
+        No intervenir intencionalmente.
+    </string>
+
+    <string name="question_2">
+        2. El desempeño observable de su grupo está mejorando. Usted se ha estado asegurando que todos los miembros estén conscientes de sus responsabilidades y los estándares esperados de desempeño.</string>
+    <string name="answer_2_a">
+    Establecer una interacción amistosa pero continuar asegurándose que todos los miembros estén conscientes de sus responsabilidades y estándares esperados de desempeño.</string>
+    <string name="answer_2_b">
+        Tomar una acción no definida.
+    </string>
+
+    <string name="answer_2_c">
+        Hacer lo que sea posible para que el grupo se sienta importante e involucrado
+    </string>
+
+    <string name="answer_2_d">
+        Enfatizar la importancia de los plazos y las entregas.
+    </string>
+
+
+    <string name="question_3">
+        3. Los miembros de su grupo son incapaces de resolver un problema por si mismos. Usted los ha dejado normalmente solos. El desempeño y las relaciones interpersonales del grupo han sido buenas.</string>
+    <string name="answer_3_a">
+    Trabajar con el grupo y juntos acometer la resolución del problema.
+    </string>
+
+    <string name="answer_3_b">
+    Dejar que el grupo resuelva el problema.
+    </string>
+
+    <string name="answer_3_c">
+    Actuar rápida y firmemente para corregir y redirigir.
+    </string>
+
+    <string name="answer_3_d">
+    Estimular al grupo a trabajar en el problema y apoyarlos en sus esfuerzos.
+    </string>
+
+
+    <string name="question_4">
+        4. Usted está considerando un cambio. Sus colaboradores tienen un excelente historial de logros. Ellos reconocen la necesidad de cambios.
+    </string>
+
+    <string name="answer_4_a">
+    Permitir que el grupo se involucre en el desarrollo del cambio, no siendo, sin embargo, demasiado directivo.
+    </string>
+
+    <string name="answer_4_b">
+    Anunciar los cambios y luego implementarlos bajo supervisión estrecha.
+    </string>
+
+    <string name="answer_4_c">
+    Permitir que el grupo formule sus propias directrices.
+    </string>
+
+    <string name="answer_4_d">
+    Incorporar las recomendaciones del grupo, pero usted dirige el cambio.
+    </string>
+
+    <string name="question_5">
+        5. El desempeño de su grupo ha estado decayendo durante los meses recientes. Los integrantes no están preocupados con el logro de los objetivos. La redefinición de roles y responsabilidades ha sido de utilidad en el pasado. Ha sido necesario estarles recordando constantemente que realicen sus tareas a tiempo.
+    </string>
+
+    <string name="answer_5_a">
+    Permitir que el grupo formule su propia dirección.
+    </string>
+
+    <string name="answer_5_b">
+    Incorporar las recomendaciones del grupo, pero ver que se cumplan los objetivos.
+    </string>
+
+    <string name="answer_5_c">
+    Redefinir roles y responsabilidades y supervisar cuidadosamente.
+    </string>
+
+    <string name="answer_5_d">
+    Permitir el involucramiento del grupo en la determinación de roles y responsabilidades, pero no siendo demasiado directivo.
+    </string>
+
+    <string name="question_6">
+        6. Usted ha ingresado a una organización manejada en forma eficiente. El anterior administrador controlaba estrechamente la situación. Usted quiere mantener una situación productiva, sin embargo, le gustaría comenzar a humanizar el entorno.
+    </string>
+
+    <string name="answer_6_a">
+    Hacer lo que sea posible para que el grupo se sienta importante e involucrado.
+    </string>
+
+    <string name="answer_6_b">
+    Enfatizar la importancia de los plazos y las tareas.
+    </string>
+
+    <string name="answer_6_c">
+    No intervenir intencionalmente.
+    </string>
+
+    <string name="answer_6_d">
+    Lograr que el grupo se involucre en la toma de decisiones pero ver que se cumplan los objetivos.
+    </string>
+
+    <string name="question_7">
+        7. Usted está considerando el cambiar a una estructura que será nueva para su grupo. Los miembros del grupo han hecho sugerencias acerca de los cambios requeridos. El grupo ha sido productivo y ha demostrado flexibilidad en sus operaciones.
+    </string>
+
+    <string name="answer_7_a">
+        Definir el cambio y supervisar adecuadamente.
+    </string>
+
+    <string name="answer_7_b">
+        Participar con el grupo en el desarrollo del cambio pero permitir que los miembros organicen la implementación.
+    </string>
+
+    <string name="answer_7_c">
+        Estar dispuesto a hacer los cambios tal como son recornendados pero mantener el control de su implementación.
+    </string>
+
+    <string name="answer_7_d">
+        Evitar la confrontación; dejar las cosas solas.
+    </string>
+
+    <string name="question_8">
+        8. El desempeño del grupo y las relaciones interpersonales son buenas, usted se siente un tanto inseguro acerca de su falta de dirección del grupo.
+    </string>
+
+    <string name="answer_8_a">
+       Dejar al grupo solo.
+    </string>
+
+    <string name="answer_8_b">
+        Discutir la situación con el grupo y a continuación iniciar los cambios requeridos.
+    </string>
+
+    <string name="answer_8_c">
+        Dar los pasos necesarios para dirigir a los subordinados hacia el trabajo en una forma bien definida.
+    </string>
+
+    <string name="answer_8_d">
+        Brindar apoyo en la discusión de la situación con el grupo, pero no siendo demasiado directivo.
+    </string>
+
+    <string name="question_9">
+        9. Su Jefe lo ha designado para encabezar una fuerza de tarea (task force) que está sumamente retrasada en hacer las recomendaciones requeridas para un cambio. El grupo no está claro con respecto a sus metas. La asistencia a las reuniones ha sido baja. Sus reuniones se han transformado más bien en encuentros sociales. Potencialmente ellos tienen el talento necesario para ayudar.
+    </string>
+
+    <string name="answer_9_a">
+        Dejar que el grupo resuelva sus problemas.
+    </string>
+
+    <string name="answer_9_b">
+        Incorporar las recomendaciones del grupo pero ver que se cumplan los objetivos.
+    </string>
+
+    <string name="answer_9_c">
+        Redefinir las metas y supervisar cuidadosamente.
+    </string>
+
+    <string name="answer_9_d">
+        Permitir que el grupo se involucre en el establecimiento de las metas, pero sin presionarlos.
+    </string>
+
+    <string name="question_10">
+        10. Sus colaboradores, que normalmente son capaces de asumir responsabilidades, no  están respondiendo a su reciente definición de estándares.
+    </string>
+
+    <string name="answer_10_a">
+        Permitir que el grupo se involucre en la redefinición de estándares pero sin tomar el control.
+    </string>
+
+    <string name="answer_10_b">
+         Redefinir los estándares y supervisar cuidadosamente.
+    </string>
+
+    <string name="answer_10_c">
+        Evitar la confrontación no aplicando presión: dejar la situación sola.
+    </string>
+
+    <string name="answer_10_d">
+        Incorporar las recomendaciones del grupo pero ver que se cumplan los nuevos estándares.
+    </string>
+
+    <string name="question_11">
+       11. Usted ha sido promovido a una nueva posición. El Supervisor anterior no estaba involucrado en los asuntos del grupo. El grupo ha manejado adecuadamente sus  tareas y dirección. las interrelaciones del grupo son buenas.
+    </string>
+
+    <string name="answer_11_a">
+        Dar los pasos necesarios para dirigir a los colaboradores hacia formas de trabajo bien definidas.
+    </string>
+
+    <string name="answer_11_b">
+       Involucrar a los colaboradores en la toma de decisiones y reforzar las buenas contribuciones.
+    </string>
+
+    <string name="answer_11_c">
+        Discutir el desempeño pasado con el grupo y luego examinar la necesidad de incorporar prácticas innovadoras.
+    </string>
+
+    <string name="answer_11_d">
+        Continuar dejando al grupo solo.
+    </string>
+
+    <string name="question_12">
+        12. Informaciones recientes indican que existen algunas dificultades internas entre los colaboradores. El grupo tiene un registro notable de logros. Los miembros han mantenido efectivamente metas de largo plazo. Han trabajado en armonía durante el último año. Todos están bien calificados
+    para las tareas.
+    </string>
+
+    <string name="answer_12_a">
+       Intentar su propia solución con los colaboradores y examinar la necesidad de introducir nuevas prácticas.
+    </string>
+
+    <string name="answer_12_b">
+        Permitir que los miembros del grupo lo resuelvan por si mismos.
+    </string>
+
+    <string name="answer_12_c">
+       Actuar rápida y firmemente para corregir y redirigir.
+    </string>
+
+    <string name="answer_12_d">
+         Participar en la discusión del problema brindando apoyo a los colaboradores.
+    </string>
+</resources>
